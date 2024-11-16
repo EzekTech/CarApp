@@ -37,10 +37,10 @@ using ConsoleApp1;
    
 
     //Calling object for Truck
-    Console.WriteLine($"{truck.Make} \n");
-    Console.WriteLine($"{truck.Model} \n");
-    Console.WriteLine($"{truck.Year} \n");
-    Console.WriteLine($"I have a {truck.Year} {truck.Make} {truck.Model} Truck \n");
+    //Console.WriteLine($"{truck.Make} \n");
+    //Console.WriteLine($"{truck.Model} \n");
+    //Console.WriteLine($"{truck.Year} \n");
+    //Console.WriteLine($"I have a {truck.Year} {truck.Make} {truck.Model} Truck \n");
 
 
 
